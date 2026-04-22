@@ -174,3 +174,35 @@ Final Mean Reward: -383.3000
 Success Percentage: 82.40%
 Mean Episode Length: 294.0340
 ----------------------------------------
+Type: Random Agent
+Parameters: N/A
+Episodes: 500
+Mean Reward: -499.5600
+Final Mean Reward: -500.0000
+Success Percentage: 1.00%
+Mean Episode Length: 499.5700
+----------------------------------------
+Type: Q-Learning Agent
+Parameters: n_bins=3
+Episodes: 500
+Mean Reward: -490.9480
+Final Mean Reward: -500.0000
+Success Percentage: 8.80%
+Mean Episode Length: 491.0360
+----------------------------------------
+Type: Q-Learning Agent
+Parameters: n_bins=6
+Episodes: 500
+Mean Reward: -422.6860
+Final Mean Reward: -403.0000
+Success Percentage: 47.00%
+Mean Episode Length: 423.1560
+----------------------------------------
+Type: Q-Learning Agent
+Parameters: n_bins=9
+Episodes: 500
+Mean Reward: -489.0860
+Final Mean Reward: -482.4000
+Success Percentage: 13.80%
+Mean Episode Length: 489.2240
+----------------------------------------

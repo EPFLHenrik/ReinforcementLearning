@@ -209,40 +209,16 @@ Mean Episode Length: 489.2240
 Type: REINFORCE Agent
 Parameters: alpha=0.001, n_centers_per_dim=4
 Episodes: 500
-Mean Reward: -498.6840
+Mean Reward: -499.3800
 Final Mean Reward: -500.0000
-Success Percentage: 1.60%
-Mean Episode Length: 498.7000
+Success Percentage: 1.40%
+Mean Episode Length: 499.3940
 ----------------------------------------
 Type: REINFORCE Agent
 Parameters: alpha=0.001, n_centers_per_dim=5
 Episodes: 500
-Mean Reward: -498.9680
-Final Mean Reward: -500.0000
-Success Percentage: 1.80%
-Mean Episode Length: 498.9860
-----------------------------------------
-Type: REINFORCE Agent
-Parameters: alpha=0.001, n_centers_per_dim=6
-Episodes: 500
-Mean Reward: -498.2020
-Final Mean Reward: -498.4000
+Mean Reward: -497.4400
+Final Mean Reward: -488.6000
 Success Percentage: 2.60%
-Mean Episode Length: 498.2280
-----------------------------------------
-Type: REINFORCE Agent
-Parameters: alpha=0.005, n_centers_per_dim=4
-Episodes: 500
-Mean Reward: -498.3780
-Final Mean Reward: -498.4000
-Success Percentage: 2.20%
-Mean Episode Length: 498.4000
-----------------------------------------
-Type: REINFORCE Agent
-Parameters: alpha=0.005, n_centers_per_dim=5
-Episodes: 500
-Mean Reward: -494.5660
-Final Mean Reward: -500.0000
-Success Percentage: 6.80%
-Mean Episode Length: 494.6340
+Mean Episode Length: 497.4660
 ----------------------------------------

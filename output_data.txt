@@ -206,3 +206,11 @@ Final Mean Reward: -482.4000
 Success Percentage: 13.80%
 Mean Episode Length: 489.2240
 ----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.001, n_centers_per_dim=4
+Episodes: 500
+Mean Reward: -498.6840
+Final Mean Reward: -500.0000
+Success Percentage: 1.60%
+Mean Episode Length: 498.7000
+----------------------------------------

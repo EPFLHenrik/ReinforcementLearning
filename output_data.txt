@@ -222,3 +222,227 @@ Final Mean Reward: -488.6000
 Success Percentage: 2.60%
 Mean Episode Length: 497.4660
 ----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.001, n_centers_per_dim=6
+Episodes: 500
+Mean Reward: -498.0940
+Final Mean Reward: -500.0000
+Success Percentage: 1.80%
+Mean Episode Length: 498.1120
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.005, n_centers_per_dim=4
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.005, n_centers_per_dim=5
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.005, n_centers_per_dim=6
+Episodes: 500
+Mean Reward: -499.1940
+Final Mean Reward: -500.0000
+Success Percentage: 1.20%
+Mean Episode Length: 499.2060
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.01, n_centers_per_dim=4
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.01, n_centers_per_dim=5
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: REINFORCE Agent
+Parameters: alpha=0.01, n_centers_per_dim=6
+Episodes: 500
+Mean Reward: -499.9640
+Final Mean Reward: -500.0000
+Success Percentage: 0.40%
+Mean Episode Length: 499.9680
+----------------------------------------
+Type: REINFORCE MLP Agent
+Parameters: alpha=0.0001
+Episodes: 500
+Mean Reward: -483.3080
+Final Mean Reward: -471.8000
+Success Percentage: 16.20%
+Mean Episode Length: 483.4700
+----------------------------------------
+Type: REINFORCE MLP Agent
+Parameters: alpha=0.0005
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: REINFORCE MLP Agent
+Parameters: alpha=0.001
+Episodes: 500
+Mean Reward: -499.1740
+Final Mean Reward: -500.0000
+Success Percentage: 1.20%
+Mean Episode Length: 499.1860
+----------------------------------------
+Type: REINFORCE MLP Agent
+Parameters: alpha=0.005
+Episodes: 500
+Mean Reward: -465.4220
+Final Mean Reward: -500.0000
+Success Percentage: 20.00%
+Mean Episode Length: 465.6220
+----------------------------------------
+Type: REINFORCE MLP Agent
+Parameters: alpha=0.01
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0001, alpha_critic=0.0001
+Episodes: 500
+Mean Reward: -141.3720
+Final Mean Reward: -102.2000
+Success Percentage: 94.20%
+Mean Episode Length: 142.3140
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0001, alpha_critic=0.0005
+Episodes: 500
+Mean Reward: -162.7000
+Final Mean Reward: -89.7000
+Success Percentage: 90.00%
+Mean Episode Length: 163.6000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0001, alpha_critic=0.001
+Episodes: 500
+Mean Reward: -249.4480
+Final Mean Reward: -171.2000
+Success Percentage: 94.40%
+Mean Episode Length: 250.3920
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0001, alpha_critic=0.005
+Episodes: 500
+Mean Reward: -130.8760
+Final Mean Reward: -87.3000
+Success Percentage: 97.60%
+Mean Episode Length: 131.8520
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0005, alpha_critic=0.0001
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0005, alpha_critic=0.0005
+Episodes: 500
+Mean Reward: -325.3060
+Final Mean Reward: -260.5000
+Success Percentage: 57.40%
+Mean Episode Length: 325.8800
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0005, alpha_critic=0.001
+Episodes: 500
+Mean Reward: -211.8040
+Final Mean Reward: -82.2000
+Success Percentage: 87.20%
+Mean Episode Length: 212.6760
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.0005, alpha_critic=0.005
+Episodes: 500
+Mean Reward: -157.1800
+Final Mean Reward: -110.5000
+Success Percentage: 96.00%
+Mean Episode Length: 158.1400
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.001, alpha_critic=0.0001
+Episodes: 500
+Mean Reward: -430.5280
+Final Mean Reward: -500.0000
+Success Percentage: 20.20%
+Mean Episode Length: 430.7300
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.001, alpha_critic=0.0005
+Episodes: 500
+Mean Reward: -401.0720
+Final Mean Reward: -352.7000
+Success Percentage: 28.80%
+Mean Episode Length: 401.3600
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.001, alpha_critic=0.001
+Episodes: 500
+Mean Reward: -270.4060
+Final Mean Reward: -202.4000
+Success Percentage: 82.20%
+Mean Episode Length: 271.2280
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.001, alpha_critic=0.005
+Episodes: 500
+Mean Reward: -106.1000
+Final Mean Reward: -83.7000
+Success Percentage: 97.80%
+Mean Episode Length: 107.0780
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.005, alpha_critic=0.0001
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.005, alpha_critic=0.0005
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.005, alpha_critic=0.001
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
+Type: Actor-Critic Agent
+Parameters: alpha_actor=0.005, alpha_critic=0.005
+Episodes: 500
+Mean Reward: -500.0000
+Final Mean Reward: -500.0000
+Success Percentage: 0.00%
+Mean Episode Length: 500.0000
+----------------------------------------
